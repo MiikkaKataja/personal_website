@@ -9,23 +9,43 @@
 
 <url>
   <loc>https://miikkakataja.com/</loc>
-  <lastmod>2023-03-27T15:44:46+00:00</lastmod>
+  <lastmod>2024-11-23T09:36:55+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://miikkakataja.com/index.html</loc>
-  <lastmod>2023-03-27T15:44:46+00:00</lastmod>
+  <lastmod>2024-11-23T09:36:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://miikkakataja.com/work-2.html</loc>
-  <lastmod>2023-03-27T15:44:46+00:00</lastmod>
+  <loc>https://miikkakataja.com/work-4.html</loc>
+  <lastmod>2024-11-23T09:36:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://miikkakataja.com/work-5.html</loc>
+  <lastmod>2024-11-23T09:36:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://miikkakataja.com/work-3.html</loc>
-  <lastmod>2023-03-27T15:44:46+00:00</lastmod>
+  <lastmod>2024-11-23T09:36:55+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://miikkakataja.com/blog.html</loc>
+  <lastmod>2024-11-23T09:36:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://miikkakataja.com/work-2.html</loc>
+  <lastmod>2024-11-23T09:36:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miikkakataja.com/work-1.html</loc>
+  <lastmod>2024-11-23T09:36:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
